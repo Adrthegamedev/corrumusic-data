@@ -1,0 +1,41 @@
+Category: corru.observer Music
+---
+Group: Official
+Directory: official
+URLs:
+- https://corruworks.bandcamp.com/
+Series:
+- Name: corru.observer
+  Albums:
+  - album:ost-corru-observer-vol-1
+  - album:ost-corru-observer-vol-2
+  - album:ost-corru-observer-vol-3
+  - JOKZI OZO
+  - RUINOUS INTNT
+  - album:ost-corru-observer-vol-4-side-a
+  - album:ost-corru-observer-vol-4-side-b
+Description: |-
+    <i>"corru.observer - a game?"</i>
+    <hr class="split">
+    For being a niche game, [corru.observer](https://corru.observer/) has managed quite an assortment of musical references and even fanmusic; it undoubtedly will continue to do so as the game gets further popular.
+
+    This grouping includes tracks related to the wider corru universe as well, as they have been referenced over and over again.
+---
+Group: Fandom
+Description: |-
+    Albums created by the [corru.observer](https://corru.observer/) fan community, released independently.
+---
+Group: Beyond
+Exclude From Other Group Album Summaries: true
+Description: |-
+    Albums from a musical landscape beyond just [corru.observer](https://corru.observer/), by artists with at least a relation to the game's own community.
+---
+Group: Additional Tracks
+Exclude From Other Group Album Summaries: true
+Description: |-
+    Organizational "albums" for grouping tracks that have been referenced by other tracks or featured in games. Though these aren't real album releases, they contain lots of interesting music and media that have become part of the corru musical landscape!
+---
+Group: corru.works
+URLs:
+- https://corruworks.bandcamp.com/
+- https://soundcloud.com/corruworks

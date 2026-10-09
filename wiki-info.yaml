@@ -1,0 +1,22 @@
+Name: corru.observer Music Wiki
+
+Color: '#00FFFF'
+Wiki Wallpaper File Extension: png
+Wiki Wallpaper Style: |-
+    image-rendering: pixelated;
+
+Enable Flashes & Games: false
+Enable Listings: true
+Enable News: false
+Enable Art Tag UI: false
+Enable Group UI: true
+
+Divide Track Lists By Groups:
+- group:official
+- group:fandom
+- group:beyond
+- group:additional-tracks
+
+Footer Content: |-
+    corru.observer Music is an unofficial fan project, abwbabwbawbb
+#corru.observer Music is an unofficial fan project, related to [HSMusic](https://hsmusic.wiki/about/). Its creation and development are made possible through the [collaboration](https://hsmusic.wiki/discord/) and feedback of our awesome and passionate community. Thank you!

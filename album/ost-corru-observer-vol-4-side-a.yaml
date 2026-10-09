@@ -1,0 +1,162 @@
+Album:  OST::'corru.observer';'VOL 4'::SIDE A
+Date: January 21, 2025
+Date Added: October 09, 2026
+Artists:
+- corru.works
+Cover Artwork:
+- Label: Cover
+  File Extension: gif
+  Artists:
+  - corru.works
+- Label: Cover (Referential Scar)
+  Directory: scar
+  File Extension: png
+  Artists:
+  - corru.works
+Color: '#FF00FF'
+Groups:
+- Official
+- corru.works
+URLs:
+- https://corruworks.bandcamp.com/album/ost-corru-observer-vol-4-side-a
+---
+Track: Invitation
+Duration: 1:25
+URLs:
+- https://corruworks.bandcamp.com/track/invitation
+- https://soundcloud.com/corruworks/invitation 
+---
+Track: The Overlap
+Duration: 2:17
+Referenced Tracks:
+- Upsweep
+URLs:
+- https://corruworks.bandcamp.com/track/the-overlap
+- https://soundcloud.com/corruworks/the-overlap 
+---
+Track: Oh, Hi
+Duration: 2:24
+Referenced Tracks:
+- Invitation
+#- Upsweep #?
+URLs:
+- https://corruworks.bandcamp.com/track/oh-hi
+- https://soundcloud.com/corruworks/oh-hi 
+---
+Track: Endure, Eliminate
+Duration: 3:14
+Referenced Tracks:
+- Invitation
+Artists:
+- saiiko2
+URLs:
+- https://corruworks.bandcamp.com/track/endure-eliminate-2
+- https://soundcloud.com/saiiko2/endure-eliminate 
+---
+Track: Plan to Prevail
+Duration: 2:47
+Artists:
+- saiiko2
+Referenced Tracks:
+- Timestopper Tactics
+URLs:
+- https://corruworks.bandcamp.com/track/plan-to-prevail
+- https://soundcloud.com/saiiko2/plan-to-prevail 
+---
+Track: Unyielding
+Duration: 3:49
+Artists:
+- saiiko2
+URLs:
+- https://corruworks.bandcamp.com/track/unyielding-2
+- https://soundcloud.com/saiiko2/unyielding 
+---
+Track: Our Last Stand
+Duration: 2:37
+Referenced Tracks:
+- track:extra-undying
+- Invitation
+- Timestopper Tactics
+- Assemble (Whispers Theme)
+URLs:
+- https://corruworks.bandcamp.com/track/our-last-stand
+- https://soundcloud.com/corruworks/our-last-stand 
+---
+Track: Storm Approaching
+Duration: 2:40
+URLs:
+- https://corruworks.bandcamp.com/track/storm-approaching-2
+- https://soundcloud.com/corruworks/storm-approaching 
+---
+Track: Overgrown Grave
+Duration: 3:42
+Artists:
+- saiiko2
+URLs:
+- https://corruworks.bandcamp.com/track/overgrown-grave
+- https://soundcloud.com/saiiko2/overgrown-grave 
+---
+Track: Oppressive Gloom
+Duration: 3:42
+Artists:
+- saiiko2
+URLs:
+- https://corruworks.bandcamp.com/track/oppressive-gloom
+- https://soundcloud.com/saiiko2/oppressive-gloom 
+---
+Track: Fragment of Joy
+Duration: 3:36
+Referenced Tracks:
+- track:extra-desired-joy
+- launchpad
+URLs:
+- https://corruworks.bandcamp.com/track/fragment-of-joy
+- https://soundcloud.com/corruworks/better-times 
+---
+Aside Section: Hidden tracks
+---
+Track: AMBIENCE::"Ceremony Song"
+Duration: 1:25
+Referenced Tracks:
+- Upsweep
+---
+Track: AMBIENCE::"Okidoia"
+Duration: 0:56
+Referenced Tracks:
+- Upsweep
+---
+Close Aside Section: Hidden tracks
+---
+Track: EXTRA::"Endure, Eliminate"::FULL SPEED
+Duration: 2:55
+Artists:
+- saiiko2
+Referenced Tracks:
+- Endure, Eliminate
+URLs:
+- https://corruworks.bandcamp.com/track/extra-endure-eliminate-full-speed
+---
+Track: EXTRA::"Unyielding"::FULL SPEED
+Duration: 3:26
+Artists:
+- saiiko2
+Referenced Tracks:
+- Unyielding
+URLs:
+- https://corruworks.bandcamp.com/track/extra-unyielding-full-speed
+---
+Aside Section: Hidden tracks
+---
+Track: EXTRA::"Overgrown Grave"::FULL SPEED
+Duration: 2:57
+Artists:
+- saiiko2
+Referenced Tracks:
+- Overgrown Grave
+---
+Track: EXTRA::"Oppressive Gloom"::FULL SPEED
+Duration: 2:57
+Referenced Tracks:
+- Oppressive Gloom
+Artists:
+- saiiko2

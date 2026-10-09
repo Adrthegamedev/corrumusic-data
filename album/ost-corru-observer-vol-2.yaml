@@ -1,0 +1,98 @@
+Album: OST::'corru.observer';'VOL 2'
+Date: March 3, 2023
+Date Added: October 08, 2026
+Artists:
+- corru.works
+Cover Artwork:
+- Label: Cover
+  File Extension: gif
+  Artists:
+  - corru.works
+- Label: Cover (BSTRD)
+  Directory: bstrd
+  File Extension: gif
+  Artists:
+  - corru.works
+Color: '#FF00FF'
+Groups:
+- Official
+- corru.works
+URLs:
+- https://corruworks.bandcamp.com/album/ost-corru-observer-vol-2
+- https://soundcloud.com/corruworks/sets/corruobserver-vol-2
+---
+Track: Remembrance 
+Duration: 2:57
+URLs:
+- https://corruworks.bandcamp.com/track/remembrance-2
+- https://soundcloud.com/corruworks/remembrance
+---
+Track: Preparation 
+Duration: 1:25
+Referenced Tracks:
+- Timestopper Tactics
+URLs:
+- https://corruworks.bandcamp.com/track/preparation-2
+- https://soundcloud.com/corruworks/preparation
+---
+Track: Timestopper Tactics 
+Duration: 2:39
+URLs:
+- https://corruworks.bandcamp.com/track/timestopper-tactics
+- https://soundcloud.com/corruworks/timestopper-tactics
+---
+Track: The Walls Are Trying to Kill Me 
+Duration: 1:59
+Referenced Tracks:
+- The First Embassy
+- Timestopper Tactics
+URLs:
+- https://corruworks.bandcamp.com/track/the-walls-are-trying-to-kill-me-2
+- https://soundcloud.com/corruworks/the-walls-are-trying-to-kill-me
+---
+Track: Losing Control 
+Duration: 1:07
+Referenced Tracks:
+- The Walls Are Trying to Kill Me
+URLs:
+- https://corruworks.bandcamp.com/track/losing-control-2
+- https://soundcloud.com/corruworks/losing-control
+---
+Track: Heavy Losses 
+Duration: 1:59
+URLs:
+- https://corruworks.bandcamp.com/track/heavy-losses-2
+- https://soundcloud.com/corruworks/heavy-losses
+---
+Track: Outside Interference 
+Duration: 1:12
+Referenced Tracks:
+- BSTRD
+URLs:
+- https://corruworks.bandcamp.com/track/outside-interference-2
+- https://soundcloud.com/corruworks/outside-interference
+---
+Track: BSTRD 
+Duration: 2:11
+URLs:
+- https://corruworks.bandcamp.com/track/bstrd-2
+- https://soundcloud.com/corruworks/bstrd
+---
+Track: BSTRD::METHODICAL 
+Duration: 2:55
+Referenced Tracks:
+- BSTRD
+URLs:
+- https://corruworks.bandcamp.com/track/bstrd-methodical
+- https://soundcloud.com/corruworks/bstrd-methodical
+---
+Aside Section: Hidden tracks
+---
+Track: EXTRA::"Electric Memories" 
+Duration: 1:25
+---
+Track: AMBIENCE::"Edge of Sanity" 
+Duration: 1:31
+---
+Track: AMBIENCE::"Memory Hole" 
+Duration: 1:32

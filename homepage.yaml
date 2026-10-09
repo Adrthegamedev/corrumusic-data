@@ -1,0 +1,40 @@
+Homepage: Homepage
+Navbar Links:
+- '[[listing-index:-|Listings]]'
+#- '[[news-index:-|News]]'
+- '[HSMusic Wiki](https://hsmusic.wiki)'
+#- '[[static:about]]'
+#- '[[static:feedback]]'
+#- '[Discord](https://hsmusic.wiki/discord/)'
+#- '[[static:changelog]]'
+---
+Section: Official Discography
+---
+Row: album grid
+Albums:
+- album:ost-corru-observer-vol-1
+- album:ost-corru-observer-vol-2
+- album:ost-corru-observer-vol-3
+- JOKZI OZO
+- RUINOUS INTNT
+- album:ost-corru-observer-vol-4-side-a
+- album:ost-corru-observer-vol-4-side-b
+---
+Row: actions
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:fandom|Explore Fandom!]]'
+- '[[group-gallery:beyond|Explore Beyond!]]'
+---
+Section: Recent Additions
+---
+Row: album grid
+Albums:
+- album:ust-corru-observer-vol
+- 'Acousmatic Recollection Layer EP: A corru.observer Fan Album'
+- Seventh Forge
+- wiz trax
+- The Spire
+- Whispers
+- Corn Music
+- The Ruins

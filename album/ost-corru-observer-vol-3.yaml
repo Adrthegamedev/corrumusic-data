@@ -1,0 +1,128 @@
+Album: OST::'corru.observer';'VOL 3'
+Date: July 18, 2023
+Date Added: October 08, 2026
+Artists:
+- corru.works
+Cover Artwork:
+- Label: Cover
+  File Extension: gif
+  Artists:
+  - corru.works
+- Label: Cover (Effigies)
+  Directory: effigies
+  File Extension: png
+  Artists:
+  - corru.works
+- Label: Cover (::/FRAME/)
+  Directory: frame
+  File Extension: gif
+  Artists:
+  - corru.works
+Color: '#FF00FF'
+Groups:
+- Official
+- corru.works
+URLs:
+- https://corruworks.bandcamp.com/album/ost-corru-observer-vol-3
+- https://soundcloud.com/corruworks/sets/corruobserver-vol-3
+---
+Track: Let Me Out
+Duration: 2:59
+URLs:
+- https://corruworks.bandcamp.com/track/let-me-out
+- https://soundcloud.com/corruworks/let-me-out
+---
+Track: It Is Happening Again
+Duration: 1:11
+URLs:
+- https://corruworks.bandcamp.com/track/it-is-happening-again
+- https://soundcloud.com/corruworks/it-is-happening-again
+Referenced Tracks:
+- Terrible Life
+- Timestopper Tactics
+---
+Track: Terrible Life
+Duration: 2:45
+URLs:
+- https://corruworks.bandcamp.com/track/terrible-life
+- https://soundcloud.com/corruworks/terrible-life
+Referenced Tracks:
+- Timestopper Tactics
+---
+Track: Hope
+Duration: 2:40
+URLs:
+- https://corruworks.bandcamp.com/track/hope
+- https://soundcloud.com/corruworks/hope
+Referenced Tracks:
+- Let Me Out
+---
+Track: Impact
+Duration: 2:02
+URLs:
+- https://corruworks.bandcamp.com/track/impact
+- https://soundcloud.com/corruworks/impact
+Referenced Tracks:
+- Timestopper Tactics
+- Terrible Life
+---
+Track: Inner World
+Duration: 2:59
+URLs:
+- https://corruworks.bandcamp.com/track/inner-world
+- https://soundcloud.com/corruworks/inner-world
+---
+Track: Breaking Free
+Duration: 3:47
+Artists:
+- saiiko2
+- corru.works
+URLs:
+- https://corruworks.bandcamp.com/track/breaking-free
+- https://soundcloud.com/saiiko2/breaking-free
+Referenced Tracks:
+- peaceful_ver1
+- Theme of the Friend
+- Let Me Out
+---
+Track: Hostile Rewrite
+Duration: 2:56
+URLs:
+- https://corruworks.bandcamp.com/track/hostile-rewrite
+- https://soundcloud.com/corruworks/hostile-rewrite
+Referenced Tracks:
+- Timestopper Tactics
+- BSTRD
+- Let Me Out
+---
+Track: Daemons
+Duration: 3:10
+Artists:
+- saiiko2
+URLs:
+- https://corruworks.bandcamp.com/track/daemons
+- https://soundcloud.com/saiiko2/daemons
+Referenced Tracks:
+- Timestopper Tactics
+- BSTRD
+- Let Me Out
+---
+Aside Section: Hidden tracks
+---
+Track: AMBIENCE::"November"
+Duration: 2:01
+---
+Track: AMBIENCE::"Waking Dream"
+Duration: 1:32
+Artists:
+- corru.works
+- Oliver Buckland
+Referenced Tracks:
+- JOKZI OZO
+Sampled Tracks:
+- JOKZI OZO
+---
+Track: AMBIENCE::"Abyss"
+Duration: 2:49
+Referenced Tracks:
+- Upsweep
