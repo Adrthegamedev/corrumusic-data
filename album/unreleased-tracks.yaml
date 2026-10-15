@@ -1,0 +1,128 @@
+Album: Unreleased Tracks
+Style: meta
+Date Added: October 15, 2026
+Has Track Numbers: false
+Color: '#fc5f65'
+Groups:
+- Additional Tracks
+---
+Track: collapsesignal
+Artists:
+- corru.works
+Duration: 1:14
+URLs:
+- https://corru.observer/audio/collapsesignal.ogg
+Referenced Tracks:
+- Upsweep
+---
+Track: embassy_movefriendintro
+Artists:
+- corru.works
+Duration: 0:24
+URLs:
+- https://corru.observer/audio/embassy_movefriendintro.ogg
+Referenced Tracks:
+- The Walls Are Trying to Kill Me
+---
+Track: Le délire des négations
+Artists:
+- NoisyRejects
+Duration: 2:40
+URLs:
+- https://corru.observer/audio/tv.ogg
+Referenced Tracks:
+- track:extra-electric-memories
+- Terrible Life
+- Timestopper Tactics
+- track:ambience-memory-hole
+- It Is Happening Again
+---
+Track: bs_uncanny
+Artists:
+- NoisyRejects
+Duration: 2:02
+Referenced Tracks:
+- backstage
+URLs:
+- https://corru.observer/audio/bs_uncanny.ogg
+---
+Track: bs_embassy
+Artists:
+- NoisyRejects
+Duration: 2:02
+URLs:
+- https://corru.observer/audio/bs_embassy.ogg
+Referenced Tracks:
+- backstage
+- bs_joy
+---
+Track: bs_hunger
+Artists:
+- NoisyRejects
+Duration: 2:02
+URLs:
+- https://corru.observer/audio/bs_hunger.ogg
+Referenced Tracks:
+- backstage
+- bs_joy
+- Outside Interference
+---
+Track: bs_joy
+Artists:
+- NoisyRejects
+Duration: 2:02
+URLs:
+- https://corru.observer/audio/bs_joy.ogg
+Referenced Tracks:
+- backstage
+- The World Machine
+- Emergent Lucidity
+Referencing Sources: |-
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    i'm shocked no one brought up the technicaly oneshot reference in the track
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    it's much more obvious in [[track:backstage|this wip]] wow
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    yeagh tgho https://www.youtube.com/watch?v=lBudH5L7YCo
+    i kinda just realized how like
+    that actually contextually works as a cool reference
+    comparing the daemons and what not to the world machine....
+    <i>rainbowcutieo3o:</i> (The Embassy, 10/15/2026)
+    it wasnt intentional but afterwards i did really just go "yeah i think this sounds like oneshot but i think thats actually good for the resources location"
+    was it intentional i forgor
+    been a while
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    it was
+    i picked that pad fully knowing what it was
+---
+Track: bs_tozik
+Artists:
+- NoisyRejects
+Duration: 2:02
+URLs:
+- https://corru.observer/audio/bs_tozik.ogg
+Referenced Tracks:
+- track:ambience-november
+---
+Track: grove
+Artists:
+- NoisyRejects
+Duration: 0:34
+URLs:
+- https://corru.observer/audio/grove.ogg
+---
+Track: script
+Artists:
+- NoisyRejects
+Duration: 1:36
+URLs:
+- https://corru.observer/audio/script.ogg
+---
+Track: embassy_collapse_ambient
+Artists:
+- corru.works
+Duration: 2:00
+URLs:
+- https://corru.observer/audio/embassy_collapse_ambient.ogg
+Referenced Tracks:
+- Heavy Losses
