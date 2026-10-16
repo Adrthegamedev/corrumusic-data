@@ -1,0 +1,125 @@
+Album:  OST::'corru.observer';'VOL 4'::SIDE C
+Date: October 16, 2026
+Date Added: October 17, 2026
+Artists:
+- NoisyRejects
+Cover Artists:
+- NoisyRejects
+Cover Art File Extension: gif
+Color: '#FF00FF'
+Groups:
+- Official
+URLs:
+- https://noisyrejects.bandcamp.com/album/ost-corru-observer-vol-4-side-c
+---
+Track: Karst ～ Stagehands
+Duration: 2:02
+URLs:
+- https://noisyrejects.bandcamp.com/track/karst-stagehands
+- https://soundcloud.com/noisyrejects/stagehands
+Referenced Tracks:
+- backstage
+- track:extra-karst-base
+- Outside Interference
+---
+Track: Karst ～ Pentachromacy
+Duration: 2:02
+URLs:
+- https://noisyrejects.bandcamp.com/track/karst-pentachromacy
+- https://soundcloud.com/noisyrejects/pentachromacy
+Referenced Tracks:
+- backstage
+- track:extra-karst-base
+- The World Machine
+- Emergent Lucidity
+Referencing Sources: |-
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    i'm shocked no one brought up the technicaly oneshot reference in the track
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    it's much more obvious in [[track:backstage|this wip]] wow
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    yeagh tgho https://www.youtube.com/watch?v=lBudH5L7YCo
+    i kinda just realized how like
+    that actually contextually works as a cool reference
+    comparing the daemons and what not to the world machine....
+    <i>rainbowcutieo3o:</i> (The Embassy, 10/15/2026)
+    it wasnt intentional but afterwards i did really just go "yeah i think this sounds like oneshot but i think thats actually good for the resources location"
+    was it intentional i forgor
+    been a while
+    <i>NoisyRejects:</i> (The Embassy, 10/15/2026)
+    it was
+    i picked that pad fully knowing what it was
+---
+Track: Karst ～ Aquifer
+Duration: 2:02
+URLs:
+- https://noisyrejects.bandcamp.com/track/karst-aquifer
+- https://soundcloud.com/noisyrejects/aquifer
+Referenced Tracks:
+- backstage
+- track:extra-karst-base
+---
+Track: Karst ～ Eolian
+Duration: 2:02
+URLs:
+- https://noisyrejects.bandcamp.com/track/karst-eolian
+- https://soundcloud.com/noisyrejects/eolian
+Referenced Tracks:
+- track:extra-karst-base
+- track:ambience-november
+---
+Track: Karst ～ Parahypogean
+Duration: 2:02
+URLs:
+- https://noisyrejects.bandcamp.com/track/karst-parahypogean
+- https://soundcloud.com/noisyrejects/parahypogean
+Referenced Tracks:
+- track:extra-karst-base
+- track:extra-karst-parahypogean-itr-2
+---
+Track: Do You Know the Script?
+Duration: 1:36
+URLs:
+- https://noisyrejects.bandcamp.com/track/do-you-know-the-script
+- https://soundcloud.com/noisyrejects/script
+---
+Track: Le Délire Des Négations
+Duration: 2:40
+Cover Artists:
+- NoisyRejects
+Cover Art File Extension: gif
+URLs:
+- https://noisyrejects.bandcamp.com/track/le-d-lire-des-n-gations
+- https://soundcloud.com/noisyrejects/le-delire-des-negations
+Referenced Tracks:
+- track:extra-electric-memories
+- Terrible Life
+- Timestopper Tactics
+- track:ambience-memory-hole
+- It Is Happening Again
+---
+Aside Section: Hidden tracks
+---
+Track: AMBIENCE::'Grove'
+Duration: 0:34
+Cover Artists:
+- NoisyRejects
+Cover Art File Extension: png
+---
+Track: EXTRA::"Karst ～ Base"
+Duration: 2:02
+Referenced Tracks:
+- backstage
+---
+Track: EXTRA::'Karst ～ Parahypogean ITR::1'
+Duration: 2:02
+---
+Track: EXTRA::'Karst ～ Parahypogean ITR::2'
+Duration: 2:02
+Referenced Tracks:
+- track:extra-karst-parahypogean-itr-1
+---
+Track: EXTRA::'Saferoom'
+Duration: 0:38
+Referenced Tracks:
+- Assemble (Whispers Theme)
