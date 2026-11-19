@@ -24,8 +24,10 @@ URLs:
 ---
 Track: Interloper
 Duration: 1:26
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 Referenced Tracks:
 - enter
 URLs:
@@ -34,16 +36,20 @@ URLs:
 ---
 Track: The Hub
 Duration: 1:53
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 URLs:
 - https://corruworks.bandcamp.com/track/the-hub
 - https://soundcloud.com/corruworks/the-hub
 ---
 Track: Safe Surface
 Duration: 2:04
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 Referenced Tracks:
 - Sharpshooter
 URLs:
@@ -52,16 +58,20 @@ URLs:
 ---
 Track: The Void
 Duration: 1:16
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 URLs:
 - https://corruworks.bandcamp.com/track/the-void
 - https://soundcloud.com/corruworks/the-void
 ---
 Track: Dull Vessel
 Duration: 1:50
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 Referenced Tracks:
 - Assemble (Whispers Theme)
 URLs:
@@ -70,16 +80,20 @@ URLs:
 ---
 Track: Their Waters
 Duration: 1:57
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 URLs:
 - https://corruworks.bandcamp.com/track/their-waters
 - https://soundcloud.com/corruworks/their-waters
 ---
 Track: The First Embassy
 Duration: 3:02
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 Referenced Tracks:
 - Safe Surface
 - Assemble (Whispers Theme)
@@ -89,8 +103,10 @@ URLs:
 ---
 Track: The Warning
 Duration: 1:46
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 #Track Artwork:
 #- Reuse From: The First Embassy
 URLs:
@@ -107,8 +123,10 @@ URLs:
 ---
 Track: The Madness Outside
 Duration: 2:46
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 #Track Artwork:
 #- Reuse From: Recosm
 URLs:

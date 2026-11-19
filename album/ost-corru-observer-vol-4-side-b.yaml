@@ -62,6 +62,7 @@ URLs:
 - https://soundcloud.com/noisyrejects/cast-yourself-aside
 ---
 Aside Section: Hidden tracks
+Directory: hidden-tracks-e4
 ---
 Track: EXTRA::"Do You Hear It Too?"
 Duration: 1:13
@@ -136,6 +137,7 @@ URLs:
 - https://soundcloud.com/noisyrejects/aewait-for-meoynaedo-not-do-not-do-notw
 ---
 Aside Section: Hidden tracks
+Directory: hidden-tracks-e4add1
 ---
 Track: EXTRA::"Flat"
 Duration: 2:10
@@ -164,9 +166,16 @@ Commentary: |-
     just a early version of rotwatchers theme, basically exactly what i made before corru worked on it
 ---
 Track: EXTRA::"Desired Joy"
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - NoisyRejects
+Cover Art File Extension: png
 Duration: 2:12
 Referenced Tracks:
 - launchpad
+URLs:
+- https://soundcloud.com/noisyrejects/desired-joy
 Commentary: |-
     <i>NoisyRejects:</i> (The Embassy)
     early version of corru's better times track. i made this after corru had made a more flatly done remix of the launchpad track the two are a remix of, basically adding drums and more counter melody and such... corru didnt think it fit the vieb fo the memory exactly, which makes sense. i made this track from the perspective of moth and interloper and the player. it's a track mourning the better times we never got until it was all over, knowing that half of these people will die... we wanted to see them happy it's what we desired... in the end corru's was much more of the perspective of the moment the team, happy and joyful about a new spire being made

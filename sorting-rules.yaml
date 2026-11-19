@@ -1,13 +1,15 @@
 # Miscellaneous files
 
 Message: Sort artists alphabetically
-Sort Documents: artists.yaml
+Sort Documents:
+- artists/
+- artists.yaml
 By Properties: [name, directory]
 
 # Additional Tracks
 
 ---
-Message: Sort More Corru Fandom alpahbetically
+Message: Sort More Corru Fandom alphabetically
 Sort Documents: album/more-corru-fandom.yaml
 By Properties: [name, directory]
 Select Documents Under: Section

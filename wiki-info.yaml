@@ -11,10 +11,14 @@ Enable News: false
 Enable Art Tag UI: false
 Enable Group UI: true
 
-Divide Track Lists By Groups:
+Divide Music By:
 - group:official
+- album:unreleased-tracks
+- album:more-from-the-composers
 - group:fandom
+- album:more-corru-fandom
 - group:beyond
+- album:references-beyond-corru
 - group:additional-tracks
 
 Footer Content: |-
