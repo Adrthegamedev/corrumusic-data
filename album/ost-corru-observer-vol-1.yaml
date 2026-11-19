@@ -115,8 +115,10 @@ URLs:
 ---
 Track: Recosm
 Duration: 1:55
-Cover Artists:
-- corru.works
+Track Artwork:
+- Label: Soundcloud artwork
+  Artists:
+  - corru.works
 URLs:
 - https://corruworks.bandcamp.com/track/recosm
 - https://soundcloud.com/corruworks/recosm
