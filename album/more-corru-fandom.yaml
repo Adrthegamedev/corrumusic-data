@@ -8,7 +8,7 @@ Section: Fanmusic from official composers
 ---
 Track: acyyh
 Duration: 2:47
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -25,7 +25,7 @@ Commentary: |-
 ---
 Track: city ?
 Duration: 2:36
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -40,7 +40,7 @@ Commentary: |-
 ---
 Track: DITZ witty
 Duration: 1:01
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -55,7 +55,7 @@ Commentary: |-
 ---
 Track: CORRU.ACADEMY [OFFICIAL OST]
 Duration: 1:51
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -74,7 +74,7 @@ Commentary: |-
 ---
 Track: gerst
 Duration: 1:52
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -98,7 +98,7 @@ Additional Names:
   Annotation: >-
     normalised
 Directory: i-saw-the-planets-on-the-tv
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -114,7 +114,7 @@ Commentary: |-
 ---
 Track: Obeski (Remix)
 Duration: 1:48
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -130,7 +130,7 @@ Commentary: |-
 ---
 Track: PANES
 Duration: 1:22
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -143,7 +143,7 @@ Commentary: |-
 ---
 Track: Surface Echoes
 Duration: 5:43
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -165,7 +165,7 @@ Commentary: |-
 ---
 Track: that is what she wants us to go to
 Duration: 2:17
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -178,7 +178,7 @@ Commentary: |-
 ---
 Track: THEY DO RAVES UP THERE ?
 Duration: 1:58
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -193,7 +193,7 @@ Commentary: |-
 ---
 Track: you wouldnt do that, right?
 Duration: 2:28
-Artists: 
+Artists:
 - NoisyRejects
 Cover Artists:
 - NoisyRejects
@@ -209,9 +209,191 @@ Commentary: |-
 ---
 Section: Other fanmusic
 ---
+Track: Akizet's Inferno
+Duration: 3:50
+Artists:
+- Octofoss
+- sutrekirl
+Contributors:
+- max (Voice Models)
+Cover Artists:
+- Octofoss
+Cover Art File Extension: png
+URLs:
+- https://soundcloud.com/octoish/akizets-inferno
+- https://www.youtube.com/watch?v=Xph-kxboz_A
+- https://www.youtube.com/watch?v=OnbeLOWr6r8
+Commentary: |-
+    <i>Octofoss:</i> (Soundcloud)
+    Akizetesche qou Jokzi, a d̲e̲a̲d̲ foreigner from a far distant moon, finds herself in quite the handsome devilish scenario 35,814 feet under...
+    A parody (fair use!) of That Handsome Devil's "Charlie's Inferno," recreated as a mod in free webgame corru.observer, which can be played at corru.observer.
+
+    A joint effort between @sutrekirl (YouTube @) and I!!
+
+    <i>Octofoss:</i> (Youtube)
+    Akizetesche qou Jokzi, a d̲e̲a̲d̲ foreigner from a far distant moon, finds herself in quite the handsome devilish scenario 35,814 feet under...
+    A parody (fair use!) of That Handsome Devil's "Charlie's Inferno," recreated as a mod in free webgame corru.observer, which can be played at https://corru.observer.
+
+    Audio-only uploads:
+    [Akizet's Inferno (full)](https://www.youtube.com/watch?v=OnbeLOWr6r8)
+    [/akizets-inferno](https://soundcloud.com/octoish/akizets-inferno)
+
+    CREDITS:
+    @sutrekirl
+    * Songwriting, initial prompt, and voice for Sourceless, Velzie, and Fairy #2
+
+    @octofoss
+    * Mixing/mastering, programming, and voice for Akizet, Effigy, and Fairy #1
+
+    @othernamed_max
+    * Akizet, Gakvu, and Gordon RVC models (used with permission)
+
+    @corruworks
+    * Game!
+
+
+    You can actually entirely play this in-browser! Here's how:
+    1. Go to https://corru.observer/local/uncosm/w...
+    2. Open console, and run addResources(["https://metaphorical.monster/INFERNO.js"])
+    3. Enter, input "inferno" into the textbox, and bam!
+Lyrics: |-
+    here lies aki
+    you can tell it's her 'cause we read her name on the cyst
+    she kept the call team real close, sipping orange simulacras
+    swap the walker for the veilk, when the rumbling storms close
+    she felt no fear back then, on the precipice
+    every gaze go out and then, conquer the surface
+    always thought of her family, even whilst in the dull
+    each day she went to town to give isabel an earful
+    avoiding all the little deaths that velzie had tasked
+    the vessel crashed, dying underneath, cyst floats; her final act
+    her spirit floated higher, trailed by a fairy choir
+    singing of vel ichor, and of the fallen spire
+
+    keep velzie entertained, my final death has come at last!
+    they all look like dogs from here, velzie's eye is ever clear!
+
+    there was a fairy gazing at her, circling round her spirit
+    with a grating voice, said
+
+    the stage; you must exit!
+
+    her heart sank
+    she couldn't take it
+
+    excuse me, friend!
+    there must be some vel you've confused me for
+    if i could speak with velzie now, i'm sure to your rules i'd conform
+    i entertained every wink
+    truly, usually more!
+
+    screaming at the fairy while they cackled at her form
+
+    excuse me, friend!
+    there must be some vel you've confused me for
+    if i could speak with velzie now, i'm sure to your rules i'd conform
+    i entertained every wink
+    truly, usually more!
+
+    screaming at the fairy while they cackled at her form
+
+    VELZIE'S GAZE LINGERS NO LONGER
+
+    the signal filled her with dread, but she was forced to enter
+    deep beneath the cave, with no moon nor sky in sight
+    poor akizet readied her claws as guktik came to fight
+    her surface days were now relayed, put on repeat and replayed
+    corrucystic body torn apart and then remade
+
+    here velzie shall see
+    torture for eternity!
+    if they chuckle then you may just finally be free
+
+    up a barely lit cave entrance, that once denied all entrants
+    velzie's eye fixated upon akizet with cruel intents
+    side-stepped fate, went right out the cave
+    but you know old velzie, they love a good chase
+    a cavekeeper stood, with fangs bared by the exit
+    that'd tear you apart if velzie'd simply willed it
+    this beast was a giggle from them, 'twas divine intervention
+    akizet sank, she was breathless
+
+    excuse me, friend!
+    there must be some vel you've confused me for
+    if i could speak with velzie now, i'm sure to their rules i'd conform
+    i really don't belong here
+    i'm sure you've heard the tune before!
+
+    screaming at the keeper while it ate at her form
+
+    excuse me, friend!
+    there must be some vel you've confused me for
+    if i could speak with velzie now, i'm sure to their rules i'd conform
+    i really don't belong here
+    i'm sure you've heard the tune before!
+
+    screaming at the keeper while it ate at her form
+    in a much better life, akizet had retired
+    underneath the surface was where she might have expired
+    this ain't a better life yet, akizet's still retired
+    you can pray to cruel velzie until your arms are tired
+    one day you will have to finally break from the cycle
+    keep praying to cruel velzie 'til your arms are tired
+
+    excuse me, friend!
+
+    (is)
+    (this)
+
+    there must be some vel you've confused me for
+
+    (fiiiin-)
+    (-al)
+    (death??)
+
+    if i could speak with velzie now, i'm sure to your rules i'd conform
+    i really don't belong here
+
+    (please)
+    (not)
+
+    i'm sure you've heard the tune before!
+
+    (fiiiin-)
+    (-al)
+    (death!!)
+
+    excuse me, friend!
+
+    (is)
+    (this)
+
+    there must be some vel you've confused me for
+
+    (fiiiin-)
+    (-al)
+    (death??)
+
+    if i could speak with velzie now, i'm sure to your rules i'd conform
+    i really don't belong here
+
+    (please)
+    (not)
+
+    i'm sure you've heard the tune before!
+
+    (fiiiin-)
+    (-al...)
+
+    (is this final death..?)
+Referenced Tracks:
+- Charlie's Inferno
+Sampled Tracks:
+- Charlie's Inferno
+---
 Track: BRNING I'S
 Duration: 1:42
-Artists: 
+Artists:
 - art man
 Cover Artists:
 - art man
@@ -225,3 +407,119 @@ Commentary: |-
 Referenced Tracks:
 - BURNING EYES
 - BSTRD
+---
+Track: CAUTION BEHIND (DA CARCRASH)
+Duration: 2:25
+Artists:
+- karmaTargeted [KT]
+Cover Artists:
+- karmaTargeted [KT]
+Cover Art File Extension: png
+URLs:
+- https://soundcloud.com/funfendx/caution-behind-da-carcrash
+Commentary: |-
+    <i>karmaTargeted [KT]:</i>
+    CARCRASH!
+    I got inspired form a song I made a while ago, and decided to do a little other track. This is supposed to suit the personality of a character (BSTRD) from corru.work's AMAZING game, corru.observer.
+    GO PLAY CORRU.OBSERVER.
+    Enjoy!
+---
+Track: challengemode_BSTRD.mp3
+Duration: 4:04
+Artists:
+- art man
+Cover Artists:
+- art man
+URLs:
+- https://soundcloud.com/art-man-397057951/challengemode_bstrd-mp3
+Commentary: |-
+    <i>art man:</i>
+    A Collection of music serving as the backing Soundtrack to a mission within a roleplaying game with friends.
+Referenced Tracks:
+- BSTRD
+- Outside Interference
+---
+Track: the dull
+Duration: 2:25
+Artists:
+- Octofoss
+Cover Artists:
+- Octofoss
+URLs:
+- https://soundcloud.com/octoish/the-dull
+Commentary: |-
+    <i>Octofoss:</i> (Soundcloud)
+    little fanmade theme for the dull contrivance from corru.observer, good game go check it out
+
+    also sorry for how poorly this is mixed
+---
+Track: echoes ringing out
+Duration: 1:57
+Artists:
+- Glad
+Cover Artists:
+- Glad
+Cover Art File Extension: png
+URLs:
+- https://soundcloud.com/glad64/echoes-ringing-out
+Commentary: |-
+    <i>Glad:</i>
+    i may remake this in FL studio once i can get the right sounds. until then enjoy the beepbox version i made on my phone
+---
+Track: "KEDI'S BIG BREAK: NO RSTRNNG"
+Duration: 2:54
+Artists:
+- Nero My Hero
+Cover Artists:
+- Nero My Hero
+Cover Art File Extension: png
+Referenced Tracks:
+- The First Embassy
+- Don't Forget
+- NOW'S YOUR CHANCE TO BE A
+- Outside Interference
+- Hostile Rewrite # the cassette clicking noises
+URLs:
+- https://soundcloud.com/discardedhero/kedis-hell
+Commentary: |-
+    <i>NovaeSys:</i> (Wiki Editor)
+    There's probably The Same(*x) Puppet references that I am missing here, to note! If you recognise the exact Deltarune fantracks being referenced, do feel free to help!
+
+    <i>Nero My Hero:</i>
+    * Kedi cackles with freedom
+    * The air is just kind of salty
+
+    TSSSSP by @thebowserpuppet
+    Corru.Observer by @corruworks
+---
+Track: Peter Griffin
+Duration: 1:21
+Artists:
+- Octofoss
+Cover Artists:
+- Octofoss
+URLs:
+- https://soundcloud.com/octoish/peter-griffin
+Commentary: |-
+    <i>Octofoss:</i> (Soundcloud)
+    little song i made for a corru.observer test mod
+---
+Track: YOUR CURIOSITY WILL KILL YOU (corru.observer fan song)
+Duration: 7:39
+Artists:
+- fercorn
+Cover Artists:
+- fercorn
+Cover Art File Extension: png
+Referenced Tracks:
+- Upsweep
+- Safe Surface
+URLs:
+- https://soundcloud.com/fercorn/your-curiosity-will-kill-you
+Commentary: |-
+    <i>fercorn:</i>
+    What's up, I'm back!
+    This is a UST for the browser game corru.observer, which is one of my favourite pieces of media... ever. It's the result of a little silly thought: "What if you had a bossfight against that 'Velzie' thoughtform?"
+    This is not in the corru style at all LOL sorry I can't afford the VSTs corru uses '_'
+    I hope you enjoy!
+    (it'd be so funny if corru works sees this though that's unlikely)
