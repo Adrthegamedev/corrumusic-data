@@ -253,8 +253,8 @@ Commentary: |-
 
 
     You can actually entirely play this in-browser! Here's how:
-    1. Go to https://corru.observer/local/uncosm/w...
-    2. Open console, and run addResources(["https://metaphorical.monster/INFERNO.js"])
+    1. Go to https://corru.observer/local/uncosm/where/?force
+    2. Open console, and run addResources(["[https://metaphorical.monster/INFERNO.js](https://metaphorical.monster/INFERNO.js)"])
     3. Enter, input "inferno" into the textbox, and bam!
 Lyrics: |-
     here lies aki
